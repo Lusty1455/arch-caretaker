@@ -1,0 +1,13 @@
+# Required AUR packages. Install with paru before running the full installer.
+bluetui
+impala
+matugen
+pavucontrol
+satty
+shorin-contrib-git
+shorinclip-git
+super-productivity
+swaync
+swayosd
+waypaper
+wlogout

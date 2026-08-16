@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Lock Screen
+Comment=Lock the current Wayland session
+Exec=swaylock
+Icon=system-lock-screen
+Terminal=false
+Categories=System;Security;
+Keywords=lock;screen;security;

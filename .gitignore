@@ -1,0 +1,6 @@
+# Backups can contain credentials and machine-private data.
+backup/*
+!backup/.gitkeep
+desktop/waybar/scripts/longshot-sh/venv/
+desktop/niri-taskbar/target/
+*.so
